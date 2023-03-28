@@ -1,0 +1,49 @@
+Language  | Title
+--------- | ---------
+Japanese  | [æå¾è¬æ¼ / Invited Talk] Pythonãå«ãå¤ãã®ãã­ã°ã©ãã³ã°è¨èªãæ±ãå¦çãã¬ã¼ã ã¯ã¼ã¯ã¨ãã¿ã¼ã³ (ja)
+Japanese  | Blockchain for Pythonistas (ja)
+Japanese  | ãã¤ã¯ã­ãµã¼ãã¹ãå©ç¨ããå´ã®ããã©ã¼ãã³ã¹åä¸ç­ (ja)
+Japanese  | é±æ«ãµã¤ã¨ã³ãã£ã¹ãã®ã¹ã¹ã¡ (ja)
+Japanese  | Pythonã§ä½ãWebã¯ã­ã¼ã©å¥é (ja)
+Japanese  | Pythonã§ä½ãTiny DAW (Digitai Audio Workstation) (ja)
+Japanese  | ãã£ãä¸ãã¡ã¤ã«ã® python ã¹ã¯ãªããããå§ãã OSS éçºå¥é (ja)
+Japanese  | ãã¼ã¿åæã¹ã¯ãªããã®ãã¼ã«åå¥é(GUIä»ä¸ã»EXEå) (ja)
+English   | Mezzanine, the best CMS on Python (en)
+English   | Getting started with chatops in python with errbot (en)
+Japanese  | ãã¥ã¼ã©ã«ãããã¯ã¼ã¯ã®ãã¬ã¼ã ã¯ã¼ã¯ã§ããChainerã§å§ããå¯¾è©±Botã®ä½æ (ja)
+English   | Building a Simple Japanese Content-Based Recommender System in Python (en)
+Japanese  | æ°å­¦çåºç¤ããå­¦ã¶ Deep Learning (ja)
+Japanese  | ä»äºã§ä½¿ãã¡ãã£ã¨ããã³ã¼ããOSSã¨ãã¦éçºã¡ã³ããã¦ãã - Django Redshift Backend ã®éçº (ja)
+Japanese  | ããã±ã¼ã¸ã³ã°ãæ¯ããæè¡ (ja)
+Japanese  | åºç¤ããå­¦ã¶Webã¢ããªã±ã¼ã·ã§ã³ãã¬ã¼ã ã¯ã¼ã¯ã®ä½ãæ¹ (ja)
+Japanese  | PythonistaããPythonistaãç¥ã£ã¦ããããããããªã®æ¬²ããã£ãï¼ iOSã¢ããªéçºç°å¢Pythonistaã (ja)
+Japanese  | è¤æ°ã®è¨èªãããªããã­ã¸ã§ã¯ããä½ãã¨ãããã¨ (ja)
+Japanese  | ç¡æã§ã§ãããCloud9ä¸ã§éçºãã¦Herokuã«ããã­ã¤ããæé ãå±æãã¾ã (ja)
+English   | How Python helped create the visual effects for an Emmy nominated TV show (en)
+Japanese  | [æå¾è¬æ¼ / Invited Talk] ç¢ºççãã¥ã¼ã©ã«ãããã®å­¦ç¿ã¨ Chainer ã«ããå®è£ (ja)
+Japanese  | Robot Frameworkã§ãã©ã¦ã¶ãã¹ããã£ã¦ã¿ãè©± (ja)
+Japanese  | Pythonã§ã¯ãããfinance hackå¥é (ja)
+English   | You Might Not Want Async (in Python) (en)
+Japanese  | Pythonã§pyftpdlibãä½¿ã£ã¦FTPãµã¼ãã¼ãä½ãéã«ä½¿ã£ããã¯ããã¯ã®ç´¹ä» (ja)
+Japanese  | Pythonã§ãPythonãããªãã¦ãä½¿ããæ±ç¨çãªMicroserviceå®è¡ç°å¢ (ja)
+Japanese  | f2pyã¨matplotlibãç¨ãããã©ã¦ã³ç²å­ååå­¦ã®ãªã¢ã«ã¿ã¤ã å¯è¦å  (ja)
+Japanese  | Pythonã§å®ç¾ãã4ã³ãæ¼«ç»ã®åæã»è©è« (ja)
+Japanese  | HTTPãã­ã¯ã·ã©ã¤ãã©ãªproxy2ã®è¨­è¨ã¨å®è£ (ja)
+Japanese  | Raspberry Piã§æ¥æ¬ã®å­ä¾ãã¡ã«ãã­ã°ã©ãã³ã°ã®ããã·ã§ã³ãä¼ããã (ja)
+English   | Deep Learning with Python & TensorFlow (en)
+Japanese  | ããã°ãã¼ã¿ã¨Pythonã§ã¯ãããéçã®çµ±è¨åæ (ja)
+Japanese  | Pythonã§å¥éããApache Spark (ja)
+English   | import community (en)
+English   | Building Distributed System with Celery on Docker Swarm (en)
+Japanese  | Python ãæ¯ããæè¡: ã¢ã¸ã¥ã¼ã«ã»ã¤ã³ãã¼ãã·ã¹ãã ç·¨ (ja)
+Japanese  | Plone5ã®OSSã«ãããé²åã¨é©å¿ ã PyCon (US) 2016 Keynoteã®æ¥æ¬èªã§ã®åæ¼ (ja)
+Japanese  | ã¡ã¿ãã­ã°ã©ãã³ã°Python (ja)
+Japanese  | ã¯ããã¦ä½ãDjangoãã©ã°ã¤ã³ (ja)
+Japanese  | Pythonã§ã¯ãããOpenAI Gymãã¬ã¼ãã³ã° (ja)
+Japanese  | pandasã«ããæç³»åãã¼ã¿å¦ç (ja)
+English   | Building An Interpreter In RPython (en)
+Japanese  | Pausable Unittest on EFI Stackless Python (ja)
+English   | Building a data preparation pipeline with Pandas and AWS Lambda (en)
+Japanese  | Python ãã¼ã¿ã¼ãã¼ã¹ãã©ã¤ãã¼ã®ä½ãæ¹ (ja)
+Japanese  | åãã³ãã«ã¤ãã¦èããã! (ja)
+English   | Sleepy: How to suspend and resume your cpython process from inside (en)
